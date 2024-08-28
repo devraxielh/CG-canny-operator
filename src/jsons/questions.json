@@ -1,0 +1,52 @@
+[
+    {
+        "question": "¿Cuál es el propósito principal del Operador Canny en el procesamiento de imágenes?",
+        "options": [
+            "Reducción de ruido",
+            "Detección de bordes",
+            "Compresión de imágenes",
+            "Mejora del contraste"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Qué tamaño tiene el filtro utilizado inicialmente en el proceso del Operador Canny?",
+        "options": [
+            "Filtro Gaussiano de 3x3",
+            "Filtro Gaussiano de 5x5",
+            "Filtro Gaussiano de 7x7",
+            "Filtro Gaussiano de 9x9"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "¿Qué calcula el Operador Canny en cada punto de la imagen?",
+        "options": [
+            "El valor promedio de los píxeles",
+            "La desviación estándar de los píxeles",
+            "El gradiente de la intensidad",
+            "La transformada de Fourier"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "¿Cuántas etapas principales tiene el algoritmo del Operador Canny?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "¿Cuál de las siguientes NO es una aplicación común del Operador Canny?",
+        "options": [
+            "Reconocimiento de patrones",
+            "Segmentación de imágenes médicas",
+            "Compresión de imágenes sin pérdida",
+            "Sistemas de asistencia al conductor"
+        ],
+        "correctAnswer": 2
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "imageSrc": "./assets/operador-canny.png",
+    "imageAlt": "Imagen del Operador Canny",
+    "title": "¿Qué es el Operador Canny?",
+    "description": [
+        "El Operador Canny es una técnica de procesamiento de imágenes utilizada para la detección de bordes, desarrollada por John F. Canny en 1986. Este operador utiliza un algoritmo de múltiples etapas para detectar bordes en imágenes de manera eficiente, maximizando la relación señal-ruido y minimizando la detección de bordes falsos.",
+        "El Operador Canny es ampliamente utilizado en aplicaciones de visión por computadora, como la segmentación de imágenes, el reconocimiento de objetos, y la detección de características en imágenes médicas. Su capacidad para proporcionar bordes nítidos y bien definidos lo convierte en una herramienta esencial en estos campos."
+    ]
+}
